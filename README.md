@@ -4,7 +4,7 @@
 4) you can randomly get any meal by clicking on button. 
 5) I have used APIs for data fetching.
 
-![image](https://user-images.githubusercontent.com/46574484/219851284-f9c44147-a8c6-4abb-8052-3514f1a628a5.png) | width=100
+![image](https://user-images.githubusercontent.com/46574484/219851284-f9c44147-a8c6-4abb-8052-3514f1a628a5.png)|width=100
 ![image](https://user-images.githubusercontent.com/46574484/219851387-2253648e-a355-4549-8872-949e0d0840b5.png)
 ![image](https://user-images.githubusercontent.com/46574484/219851405-bd176482-8c43-457f-8a77-ee30be7cc95f.png)
 ![image](https://user-images.githubusercontent.com/46574484/219851411-3b200390-f5b9-4451-90b9-dcbfac11c768.png)
